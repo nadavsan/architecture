@@ -1,0 +1,4 @@
+myshell:
+updateProcessList: case it's the child
+execute:showprocs
+
