@@ -1,0 +1,21 @@
+ELFexec -
+ELFexec2short -
+
+1.
+ELFexec -
+entry point: 8048294 (specified in the ELF header)
+
+ELFexec2short -
+entry point: 8048080 (specified in the ELF header)
+
+2.
+the only difference is the entry point address, it means that it is probably the same file :O
+ELFexec -
+ELFexec2short -
+
+3. _start
+ELFexec -08048080
+ELFexec2short - 08048080
+
+4.
+ELFexec contains the virus YALLA BALAGAN!!!

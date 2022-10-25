@@ -1,0 +1,7 @@
+ 1. It is specified in the ELF Header. Entry point address: 0x80482e0. 
+ 2. Number of section headers: 34
+ 3. 0x1b8 = 440
+ 4. Yes it does: Number 57, Value: 080482e0
+ 5. Yes it does: Number 60, Value: 08048388
+ 6. It starts on line 12. 
+  
